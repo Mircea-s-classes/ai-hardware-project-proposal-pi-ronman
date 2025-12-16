@@ -1,6 +1,6 @@
 Bird Detection for the Pi5 with AI hat is a python file called camera_hailo_yolo_birds.py
 
-To run the file, enter the code below in the Pi terminal Window 
+To run the file, enter the code below in the Pi terminal window 
 
 cd ~/hailo-rpi5-examples
 
