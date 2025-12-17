@@ -1,6 +1,5 @@
 Bird Detection for the Pi5 with AI hat is a python file called camera_hailo_yolo_birds.py
-
-This Python script is designed to work with a usb camera as the input device
+<br>This Python script is designed to work with a usb camera as the input device
 
 To run the file, enter the code below in the Pi terminal window 
 
