@@ -11,7 +11,7 @@ To view the live stream, open a internet browser window and enter the local ster
 http://192.168.1.163:8080/
 
 
-<b>To run Bird Detection on Pi5 without the AI hat
+<b>To run Bird Detection on Pi5 without the AI hat</b>
 <br>This Python script is designed to work with a usb camera as the input device
 
 <br>To run the file, enter the code below in the Pi terminal window
