@@ -11,4 +11,4 @@ To view the live stream, open a internet browser window and enter the local ster
 http://192.168.1.163:8080/
 
 
-To run 
+To run Bird Detection on Pi5 without the AI hat
